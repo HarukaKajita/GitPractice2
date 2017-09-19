@@ -1,0 +1,3 @@
+Git練習
+1度目のgit addとgit commitを終えた
+2度目のgit addとgit commitをする。
